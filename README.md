@@ -49,6 +49,11 @@
 
 ---
 
+### AI and Jobs
+
+- [Andrew Ng: The Biggest Opportunities in AI Aren't Where You Think](https://youtu.be/o-wv_szZ0V0?si=iizwsagJic6FqJXp)
+- 
+
 ### 📊 GitHub Stats
 
 ![Ashutosh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashutoshtechstk&show_icons=true&theme=radical&hide_border=true)
@@ -70,6 +75,6 @@
 
 ---
 
-*Last updated: May 2026*
+*Last updated: Sep 2026*
 
 Thanks for visiting! ✨ Feel free to explore my repositories.
