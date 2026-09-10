@@ -49,7 +49,7 @@
 
 ---
 
-### AI and Jobs
+### AI & its impact on Jobs
 
 - [Andrew Ng: The Biggest Opportunities in AI Aren't Where You Think](https://youtu.be/o-wv_szZ0V0?si=iizwsagJic6FqJXp)
 - 
