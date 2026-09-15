@@ -53,7 +53,7 @@
 
 - [Andrew Ng: The Biggest Opportunities in AI Aren't Where You Think](https://youtu.be/o-wv_szZ0V0?si=iizwsagJic6FqJXp)
 - [The Economics of Transformative AI by Anton Korinek](https://youtu.be/Z8K-Np6HCWE?si=8kEIe9Qu2MNxWqkR)
-- 
+- [Verification Economy](https://catalini.com/ideas/economics-of-ai/)
 
 ### 📊 GitHub Stats
 
